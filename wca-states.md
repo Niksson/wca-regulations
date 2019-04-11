@@ -48,11 +48,11 @@ The WCA recognizes a total of 199 countries/regions:
 - (KM:_Africa) Comoros
 - (CG:_Africa) Congo
 - (CR:_North America) Costa Rica
-- (CI:_Africa) Côte d'Ivoire
 - (HR:_Europe) Croatia
 - (CU:_North America) Cuba
 - (CY:_Europe) Cyprus
 - (CZ:_Europe) Czech Republic
+- (CI:_Africa) Côte d'Ivoire
 - (KP:_Asia) Democratic People’s Republic of Korea
 - (CD:_Africa) Democratic Republic of the Congo
 - (DK:_Europe) Denmark
@@ -66,6 +66,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (ER:_Africa) Eritrea
 - (EE:_Europe) Estonia
 - (ET:_Africa) Ethiopia
+- (FM:_Oceania) Federated States of Micronesia
 - (FJ:_Oceania) Fiji
 - (FI:_Europe) Finland
 - (FR:_Europe) France
@@ -112,6 +113,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (LT:_Europe) Lithuania
 - (LU:_Europe) Luxembourg
 - (MO:_Asia) Macau
+- (MK:_Europe) Macedonia
 - (MG:_Africa) Madagascar
 - (MW:_Africa) Malawi
 - (MY:_Asia) Malaysia
@@ -122,7 +124,7 @@ The WCA recognizes a total of 199 countries/regions:
 - (MR:_Africa) Mauritania
 - (MU:_Africa) Mauritius
 - (MX:_North America) Mexico
-- (FM:_Oceania) Federated States of Micronesia
+- (MD:_Europe) Moldova
 - (MC:_Europe) Monaco
 - (MN:_Asia) Mongolia
 - (ME:_Europe) Montenegro
@@ -151,7 +153,6 @@ The WCA recognizes a total of 199 countries/regions:
 - (PT:_Europe) Portugal
 - (QA:_Asia) Qatar
 - (KR:_Asia:Korea) Republic of Korea
-- (MD:_Europe) Moldova
 - (RO:_Europe) Romania
 - (RU:_Europe) Russia
 - (RW:_Africa) Rwanda
@@ -160,7 +161,6 @@ The WCA recognizes a total of 199 countries/regions:
 - (VC:_North America) Saint Vincent and the Grenadines
 - (WS:_Oceania) Samoa
 - (SM:_Europe) San Marino
-- (ST:_Africa) São Tomé and Príncipe
 - (SA:_Asia) Saudi Arabia
 - (SN:_Africa) Senegal
 - (RS:_Europe) Serbia
@@ -181,10 +181,11 @@ The WCA recognizes a total of 199 countries/regions:
 - (SE:_Europe) Sweden
 - (CH:_Europe) Switzerland
 - (SY:_Asia) Syria
+- (ST:_Africa) São Tomé and Príncipe
 - (TW:_Asia) Taiwan
 - (TJ:_Asia) Tajikistan
+- (TZ:_Africa) Tanzania
 - (TH:_Asia) Thailand
-- (MK:_Europe) Macedonia
 - (TL:_Asia) Timor-Leste
 - (TG:_Africa) Togo
 - (TO:_Oceania) Tonga
@@ -197,7 +198,6 @@ The WCA recognizes a total of 199 countries/regions:
 - (UA:_Europe) Ukraine
 - (AE:_Asia) United Arab Emirates
 - (GB:_Europe) United Kingdom
-- (TZ:_Africa) Tanzania
 - (US:_North America:USA) United States
 - (UY:_South America) Uruguay
 - (UZ:_Asia) Uzbekistan
